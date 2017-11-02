@@ -5,7 +5,7 @@ infrastructure.
 The following diagram shows the key components of the configuration for
 this scenario:
 ![aws vpc with pub/pri
-subnet](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/images/nat-gateway-diagram.png, "aws vpc with public/private subnets arc")
+subnet](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/images/nat-gateway-diagram.png "aws vpc with public/private subnets arc")
 
 
 You can find more detail at [AWS
