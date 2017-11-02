@@ -4,7 +4,7 @@ init:
 plan: init
 	terraform plan -var-file=terraform.tfvars
 
-apply: init
+apply:
 	terraform apply -var-file=terraform.tfvars
 
 
