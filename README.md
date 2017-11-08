@@ -1,5 +1,5 @@
 # Scenario 2: VPC with Public and Private Subnets (NAT)
-The purpose of this repo is to show how quickly and easily [Terraform](http://terraform.io) and its modules can provision an entried aws
+The purpose of this repo is to show how quickly and easily [Terraform](http://terraform.io) and its [modules](https://registry.terraform.io) can provision an entried aws
 infrastructure. The following diagram shows the key components of the configuration for
 this scenario:
 ![aws vpc with pub/pri
