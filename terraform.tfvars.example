@@ -1,11 +1,15 @@
 #---Required variables---
 aws_access_key=""
 aws_secret_key=""
+allow_ip_address="MY_IP_ADDRESS/32"
 
 #---optional variables---
-infra_name="aws-scenario2"
+infra_name="dev"
 region="us-east-1"
 vpc_cidr="10.0.0.0/16"
 azs=["us-east-1a"]
 public_subnets=["10.0.0.0/24"]
 private_subnets=["10.0.1.0/24"]
+ec2_public_instances="1"
+ami="ami-6cd01a16"
+instance_type="t2.small"

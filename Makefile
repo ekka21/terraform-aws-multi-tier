@@ -7,6 +7,4 @@ plan: init
 apply:
 	terraform apply -var-file=terraform.tfvars
 
-
-
-.PHONY: plan apply
+.PHONY: init plan apply
